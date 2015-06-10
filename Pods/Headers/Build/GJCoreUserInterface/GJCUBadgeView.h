@@ -1,0 +1,1 @@
+../../../GJCoreUserInterface/GJCoreUserInterface/GJCoreUserInterface/GJCUBadgeView/GJCUBadgeView.h

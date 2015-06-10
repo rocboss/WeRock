@@ -1,0 +1,1 @@
+../../../GJBaiduMap/BaiduMap/Headers/BMKMapComponent.h

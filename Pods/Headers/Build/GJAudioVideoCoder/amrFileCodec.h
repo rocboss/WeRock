@@ -1,0 +1,1 @@
+../../../GJAudioVideoCoder/GJAudioVideoCoder/GJAudioVideoCoder/AudioCoder/amrFileCodec.h

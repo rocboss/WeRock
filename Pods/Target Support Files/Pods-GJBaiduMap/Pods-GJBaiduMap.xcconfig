@@ -1,0 +1,2 @@
+PODS_GJBAIDUMAP_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/GJBaiduMap/BaiduMap/Libs/All"
+PODS_GJBAIDUMAP_OTHER_LDFLAGS = -l"baidumapapi" -framework "CoreGraphics" -framework "CoreLocation" -framework "OpenGLES" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration" -framework "UIKit"

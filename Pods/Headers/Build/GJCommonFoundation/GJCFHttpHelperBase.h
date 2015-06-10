@@ -1,0 +1,1 @@
+../../../GJCommonFoundation/GJCommonFoundation/GJCommonFoundation/Base/HttpHelper/GJCFHttpHelperBase.h

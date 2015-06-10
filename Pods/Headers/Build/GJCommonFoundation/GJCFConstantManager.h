@@ -1,0 +1,1 @@
+../../../GJCommonFoundation/GJCommonFoundation/GJCommonFoundation/Base/ConstantManager/GJCFConstantManager.h

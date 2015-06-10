@@ -1,0 +1,4 @@
+
+pod 'GJCommonFoundation', :podspec =>'http://git.corp.ganji.com/ios-pods/gjcommonfunction/raw/branch1.3.0/GJCommonFoundation/GJCommonFoundation.podspec'
+
+pod 'GJCoreUserInterface',:podspec =>'http://git.corp.ganji.com/ios-pods/gjcoreuserinterface/raw/master/GJCoreUserInterface/GJCoreUserInterface.podspec'

@@ -1,0 +1,1 @@
+PODS_GJCOMMONFOUNDATION_OTHER_LDFLAGS = -framework "AVFoundation" -framework "AssetsLibrary" -framework "CoreGraphics" -framework "CoreImage" -framework "CoreTelephony" -framework "CoreText" -framework "Foundation" -framework "Security"

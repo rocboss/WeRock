@@ -1,0 +1,1 @@
+../../../GJCommonFoundation/GJCommonFoundation/GJCommonFoundation/GJCFUitils/QuickCacheUitil/GJCFQuickCacheUitil.h

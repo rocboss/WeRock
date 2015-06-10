@@ -1,0 +1,1 @@
+../../../GJCommonFoundation/GJCommonFoundation/GJCommonFoundation/GJCFFileUploadManager/DownloadManager/GJCFCachePathManager.h

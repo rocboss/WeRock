@@ -1,0 +1,1 @@
+../../../GJCommonFoundation/GJCommonFoundation/GJCommonFoundation/GJCFAudioManager/Record/GJCFAudioRecord.h

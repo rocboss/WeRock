@@ -1,0 +1,228 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - GJAudioVideoCoder (2.0.0):
+    - GJAudioVideoCoder/AudioCoder
+  - GJAudioVideoCoder/AudioCoder (2.0.0)
+  - GJBaiduMap (2.5.0):
+    - GJBaiduMap/All
+  - GJBaiduMap/All (2.5.0)
+  - GJCommonFoundation (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFAssetsPicker
+    - GJCommonFoundation/GJCFAudioManager
+    - GJCommonFoundation/GJCFCacheManager
+    - GJCommonFoundation/GJCFCommonHeaders
+    - GJCommonFoundation/GJCFCoreText
+    - GJCommonFoundation/GJCFDebug
+    - GJCommonFoundation/GJCFFileUploadManager
+    - GJCommonFoundation/GJCFLocationManager
+    - GJCommonFoundation/GJCFServerBase
+    - GJCommonFoundation/GJCFUitils
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAssetsPicker (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFAssetsPicker/Uitil
+    - GJCommonFoundation/GJCFAssetsPicker/View
+    - GJCommonFoundation/GJCFAssetsPicker/ViewController
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAssetsPicker/Uitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAssetsPicker/View (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAssetsPicker/ViewController (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFAudioManager/Encode&Decode
+    - GJCommonFoundation/GJCFAudioManager/FileUitil
+    - GJCommonFoundation/GJCFAudioManager/Manager
+    - GJCommonFoundation/GJCFAudioManager/Model
+    - GJCommonFoundation/GJCFAudioManager/Network
+    - GJCommonFoundation/GJCFAudioManager/Play
+    - GJCommonFoundation/GJCFAudioManager/Record
+    - GJCommonFoundation/GJCFAudioManager/ThirdPartLibrary
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/Encode&Decode (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/FileUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/Manager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/Model (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/Network (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/Play (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/Record (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFAudioManager/ThirdPartLibrary (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFCacheManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFCommonHeaders (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFCoreText (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFCoreText/Base
+    - GJCommonFoundation/GJCFCoreText/ParagraphStyle
+    - GJCommonFoundation/GJCFCoreText/StringStyle
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFCoreText/Base (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFCoreText/ParagraphStyle (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFCoreText/StringStyle (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFDebug (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFFileUploadManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFFileUploadManager/DownloadManager
+    - GJCommonFoundation/GJCFFileUploadManager/FileUploadManager
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFFileUploadManager/DownloadManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFFileUploadManager/FileUploadManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFLocationManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJBaiduMap (= 2.5.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFServerBase (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFServerBase/BusinessBase
+    - GJCommonFoundation/GJCFServerBase/ConstantManager
+    - GJCommonFoundation/GJCFServerBase/HttpHelper
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFServerBase/BusinessBase (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFServerBase/ConstantManager (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFServerBase/HttpHelper (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - GJCommonFoundation/GJCFUitils/DateUitil
+    - GJCommonFoundation/GJCFUitils/DispatchCenterUitil
+    - GJCommonFoundation/GJCFUitils/QuickCacheUitil
+    - GJCommonFoundation/GJCFUitils/QuickUIUitil
+    - GJCommonFoundation/GJCFUitils/StringUitil
+    - GJCommonFoundation/GJCFUitils/SystemUitil
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils/DateUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils/DispatchCenterUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils/QuickCacheUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils/QuickUIUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils/StringUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCommonFoundation/GJCFUitils/SystemUitil (1.0.0):
+    - AFNetworking (~> 1.3.0)
+    - GJAudioVideoCoder (= 2.0.0)
+    - Reachability (~> 3.1.1)
+  - GJCoreUserInterface (1.0.0):
+    - GJCoreUserInterface/CommonHeaders
+    - GJCoreUserInterface/GJCUAsyncImageView
+    - GJCoreUserInterface/GJCUBadgeView
+    - GJCoreUserInterface/GJCUCapture
+    - GJCoreUserInterface/GJCUImageBrowser
+    - GJCoreUserInterface/GJCURoundCornerView
+  - GJCoreUserInterface/CommonHeaders (1.0.0)
+  - GJCoreUserInterface/GJCUAsyncImageView (1.0.0)
+  - GJCoreUserInterface/GJCUBadgeView (1.0.0)
+  - GJCoreUserInterface/GJCUCapture (1.0.0)
+  - GJCoreUserInterface/GJCUImageBrowser (1.0.0):
+    - GJCoreUserInterface/GJCUImageBrowser/Uitil
+    - GJCoreUserInterface/GJCUImageBrowser/View
+    - GJCoreUserInterface/GJCUImageBrowser/ViewController
+  - GJCoreUserInterface/GJCUImageBrowser/Uitil (1.0.0)
+  - GJCoreUserInterface/GJCUImageBrowser/View (1.0.0)
+  - GJCoreUserInterface/GJCUImageBrowser/ViewController (1.0.0)
+  - GJCoreUserInterface/GJCURoundCornerView (1.0.0)
+  - Reachability (3.1.1)
+
+DEPENDENCIES:
+  - GJCommonFoundation (from `http://git.corp.ganji.com/ios-pods/gjcommonfunction/raw/branch1.3.0/GJCommonFoundation/GJCommonFoundation.podspec`)
+  - GJCoreUserInterface (from `http://git.corp.ganji.com/ios-pods/gjcoreuserinterface/raw/master/GJCoreUserInterface/GJCoreUserInterface.podspec`)
+
+EXTERNAL SOURCES:
+  GJCommonFoundation:
+    :podspec: http://git.corp.ganji.com/ios-pods/gjcommonfunction/raw/branch1.3.0/GJCommonFoundation/GJCommonFoundation.podspec
+  GJCoreUserInterface:
+    :podspec: http://git.corp.ganji.com/ios-pods/gjcoreuserinterface/raw/master/GJCoreUserInterface/GJCoreUserInterface.podspec
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  GJAudioVideoCoder: 4957db79706bcc891d9294b344f1ea303edd5865
+  GJBaiduMap: 3d00e1223e33809056db23c27decdcd0afe7d4ac
+  GJCommonFoundation: f8ccfb2f4529789a7fb558f79a977730266b3894
+  GJCoreUserInterface: aee1364ed2c5c1bd46905ee45c40fe193292c4e0
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+
+COCOAPODS: 0.34.4

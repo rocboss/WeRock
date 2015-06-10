@@ -1,0 +1,33 @@
+//
+//  WeRock-PrefixHeader.pch
+//  WeRock
+//
+//  Created by ZYVincent on 15/4/27.
+//  Copyright (c) 2015年 ZYProSoft. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+
+#import <Foundation/Foundation.h>
+
+#import "GJCommonFoundation.h"
+
+#import "GJCoreUserinterface.h"
+
+#import "WRBaseViewController.h"
+
+#import "WRBaseNavigationController.h"
+
+#import "WRGuideStyle.h"
+
+#import "WRTopicStyle.h"
+
+#import "WRHeadView.h"
+
+#import "WRHttpUitil.h"
+
+#import "WRStackManager.h"
+
+#endif

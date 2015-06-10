@@ -1,0 +1,2 @@
+PODS_GJAUDIOVIDEOCODER_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/GJAudioVideoCoder/GJAudioVideoCoder/GJAudioVideoCoder/AudioCoder" "$(PODS_ROOT)/GJAudioVideoCoder/GJAudioVideoCoder/GJAudioVideoCoder/AudioCoder"
+PODS_GJAUDIOVIDEOCODER_OTHER_LDFLAGS = -l"opencore-amrnb" -l"opencore-amrwb" -l"stdc++"
