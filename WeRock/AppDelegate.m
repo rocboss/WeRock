@@ -49,8 +49,8 @@
 {
     self.userCenter = [[WRUserCenter alloc]init];
     WRUserModel *user = [[WRUserModel alloc]init];
-    user.password = @"mike5262705";
-    user.email = @"hutao5262705@hotmail.com";
+    user.password = @"test123";
+    user.email = @"test1@qq.com";
     
     [self.userCenter loginUser:user withResult:^(BOOL status, NSArray *resultModelArray, NSString *msg) {
         
